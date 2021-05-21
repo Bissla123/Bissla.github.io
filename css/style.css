@@ -254,6 +254,9 @@ button:active{
     outline: none;
     border-radius: 5px;
 }
+.box-3 button a {
+	color: #ffffff;
+	}
 .contact-me{
 	width: 100%;
 	height: 280px;
