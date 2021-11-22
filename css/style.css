@@ -254,6 +254,14 @@ button:active{
     outline: none;
     border-radius: 5px;
 }
+.box-1 a{
+	color: #000;
+	text-decoration: none;
+}
+.box-2 a{
+	color: #000;
+	text-decoration: none;
+}
 .box-3 a{
 	color: #000;
 	text-decoration: none;
